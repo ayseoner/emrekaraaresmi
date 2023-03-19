@@ -1,0 +1,1 @@
+!function(){"use strict";window.onload=function(){document.documentElement.className+=" loaded",Typed.new("#typed",{stringsElement:document.getElementById("typed-strings"),loop:!0,typeSpeed:7,backSpeed:2,startDelay:1e3,backDelay:1200})}}();
